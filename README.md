@@ -1,7 +1,6 @@
 # MyShop
 
-I made a E-shop website, I used it for development of that app. {Here i am attatching the github
-repo link of the project: } In that E-shop , it was a mini prototype of amazon , which had almost all
+I made a E-shop website, I used it for development of that app. In that E-shop , it was a mini prototype of amazon , which had almost all
 facilities like of Amazon, i.e.,
  Login/Logout page
  Variety Of products
