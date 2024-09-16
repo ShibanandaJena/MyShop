@@ -12,4 +12,4 @@ facilities like of Amazon, i.e.,
 
 All the user details will be handled by default Sql database provided by Django .In addition to it , I
 added a blog panel to the E shop app , which will act as a blog website , where using admin panel , I
-managed the contents of the page.
+managed the contents of the page.This is a test.
